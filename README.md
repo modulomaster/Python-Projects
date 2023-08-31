@@ -1,2 +1,2 @@
 # Python-Projects
-Python projects that I have worked on since I've learned the language.
+Python projects incorporating the use of Pandas and Numpy that I have created since learning the language.
